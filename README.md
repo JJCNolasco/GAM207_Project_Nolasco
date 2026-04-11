@@ -5,6 +5,13 @@ The goal of this project was to design and implement core gameplay systems commo
 
 ---
 
+## Links
+
+- Behance: https://www.behance.net/portfolio/editor?project_id=245867211
+- Download Playable: https://jjcnolasco.itch.io/arena-shooter-prototype
+
+---
+
 ## Project Overview
 
 - Engine: Unreal Engine 5
