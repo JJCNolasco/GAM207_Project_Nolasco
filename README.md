@@ -7,7 +7,7 @@ The goal of this project was to design and implement core gameplay systems commo
 
 ## Gameplay
 
-https://www.youtube.com/watch?v=gOJfGWIfWtM
+[![Video Title](https://youtube.com)]([https://youtube.com](https://www.youtube.com/watch?v=gOJfGWIfWtM))
 
 ---
 
