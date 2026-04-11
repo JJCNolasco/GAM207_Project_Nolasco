@@ -7,7 +7,7 @@ The goal of this project was to design and implement core gameplay systems commo
 
 ## Gameplay
 
-[![GAM207 Arena Shooter](https://youtube.com)]([https://youtube.com](https://www.youtube.com/watch?v=gOJfGWIfWtM))
+https://youtube.com](https://www.youtube.com/watch?v=gOJfGWIfWtM
 
 ---
 
